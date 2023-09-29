@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomas Achaval.
-- 👀 I’m interested in learning a variety of topics ranging from simple CS projects to real-world physics simulations and more.
-- 🌱 I’m currently studying Computer Science at FAMAF, Cba, ARG.
+- 👀 Not working on any specific projects, just learning and getting an insight into a wide range of topics in CS.
+- 🌱 I’m currently studying Computer Science at FAMAF - UNC, Cba, ARG.
 
 - 🧠 All repos are personal projects through which I've learned new stuff.
 
