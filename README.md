@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Tomas Achaval**.
+<h1 align=center>  Hi, I’m <a href=https://github.com/achaval-tomas>Tomas Achaval</a> </h1>
   
 - 👨‍🎓 I’m currently studying ***Computer Science*** at **FAMAF - UNC**, Cba, ARG.
   
