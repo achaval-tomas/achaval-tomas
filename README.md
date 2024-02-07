@@ -1,4 +1,4 @@
-<h1 align=center>  Hi, I’m <a href=https://github.com/achaval-tomas>Tomas Achaval</a> </h1>
+<h1 align=center>  Hi, I’m <a href=https://achaval-tomas.github.io/>Tomas Achaval</a> </h1>
   
 - 👨‍🎓 I’m currently studying ***Computer Science*** at **FAMAF - UNC**, Cba, ARG.
   
@@ -7,6 +7,8 @@
 - 🧠 All repos are personal projects through which I've learned new stuff.
   
 - 📫 Reach me via email at **tomiachaval2013@gmail.com**
+
+- [**My personal website**](https://achaval-tomas.github.io/) (work in progress)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achaval-tomas&theme=github_dark&layout=compact&hide_border=true&bg_color=0,100357,5d0191&title_color=fc7f03&text_color=ffffff&exclude_repo=Examenes-Resueltos-FaMAF-Compu,Labs-Completos-FaMAF-Compu&size_weight=0.7&count_weight=0.3" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=achaval-tomas&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true&bg_color=0,5d0191,100357&title_color=fc7f03&text_color=ffffff&rank_icon=percentile" alt="Tomas's github stats" /></a>
