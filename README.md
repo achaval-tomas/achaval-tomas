@@ -29,6 +29,7 @@
 <a href="https://github.com/achaval-tomas/Pi-With-Box-Collisions"><img src="https://github.com/achaval-tomas/achaval-tomas/assets/134091945/c6614567-434b-47f2-833a-9391ad0efe5a" height="100"/></a>
 <a href="https://github.com/achaval-tomas/3D-Visualization-from-2D-raycasting"><img src="https://github.com/achaval-tomas/achaval-tomas/assets/134091945/a388fc04-ba3b-4af8-8ddf-7a0f218d018f" height="100"/></a>
 <a href="https://github.com/achaval-tomas/Sorting-Algorithms-Visualizer"><img src="https://github.com/achaval-tomas/achaval-tomas/assets/134091945/75d599bd-d454-420d-8f61-cf7fe3c50a73" height="100"/></a>
+<a href="https://github.com/achaval-tomas/Quick-Notes"><img src="https://github.com/achaval-tomas/achaval-tomas/assets/134091945/1abf4dcf-a60c-4637-8f34-76c03c62c2df" height="100"/></a>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 <h2>GitHub Stats</h2>
