@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/achaval-tomas/"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a href="mailto:tomiachaval2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://leetcode.com/tomiachaval2013/"><img src="https://img.shields.io/badge/Leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow"/></a>
-  <a href="https://achaval-tomas.github.io/"><img src="https://img.shields.io/badge/My_Website-grey?style=for-the-badge&logo=flathub&logoColor=orange"/></a>
+  <!-- <a href="https://achaval-tomas.github.io/"><img src="https://img.shields.io/badge/My_Website-grey?style=for-the-badge&logo=flathub&logoColor=orange"/></a> -->
   <a href="https://github.com/achaval-tomas"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=achaval-tomas&color=orange&style=for-the-badge&label=views"/> -->
   <a href="https://github.com/achaval-tomas?tab=followers"><img src="https://img.shields.io/github/followers/achaval-tomas.svg?style=for-the-badge&label=FOLLOW&color=blueviolet"/></a>
